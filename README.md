@@ -1,4 +1,5 @@
-# Decrypting hashing assignment 
+# Assignment: Flat file Reader (Decrypted using hashing)
+## Problem Statement
 A specification for a very simple file system stored inside a flat file (FS). There is an associated index file (FI) which provides meta-data to the data inside the flat file (FS). 
 
 FS:- FS cannot be larger than 1 MB. The entire space in FS is divided into blocks of 128 bytes. 
